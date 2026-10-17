@@ -1,14 +1,18 @@
 <div align="center">
 
-# Wild Kernels for Android devices running GKI 2.0 (5.10+)
+# Top Secret Kernels for Android devices running GKI 2.0 (5.10+)
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Third-Party Notices](https://img.shields.io/badge/notices-THIRD__PARTY_NOTICES-lightgrey.svg)](THIRD_PARTY_NOTICES.md)
 
 </div>
 
+> [!NOTE]
+> Top Secret Kernels is a fork.** It is forked from [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) and rebranded for this project. All credit for the upstream work belongs to the original authors and the projects listed under [Special Thanks](#special-thanks).
+
+
 > [!CAUTION]
-> Wild Kernels is not responsible for bricked devices or damage. By flashing, you assume all risk. Back up your data and understand the risks before flashing.
+> Top Secret Kernels is not responsible for bricked devices or damage. By flashing, you assume all risk. Back up your data and understand the risks before flashing.
 
 ---
 
